@@ -1,0 +1,8 @@
+[package]
+name = "aigis_data"
+version = "0.1.0"
+authors = ["Gizeta <0w0@gizeta.tk>"]
+
+[dependencies]
+argparse = "0.2.1"
+rustc-serialize = "0.3.22"
